@@ -8,3 +8,6 @@ Here are my works on tabular datasets to demonstrate my data analysis skills. Th
 
 3. spaceship-titanic-notebook
 - In this Kaggle competition set in a sci-fi setting, the goal was to predict the chances of survival of the spaceship passengers.
+
+4. car-insurance:
+- This is a binary classification task where I had to predict whether a driver will initiate a car insurance claim.
